@@ -11,11 +11,12 @@ Aspiring Data Scientist | Python & ML Enthusiast
 
 ---
 
-## 🛠️ Tech Stack & Badges
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AIML](https://img.shields.io/badge/AI%20%26%20ML-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
 
 ---
 
@@ -39,6 +40,7 @@ Aspiring Data Scientist | Python & ML Enthusiast
 
 ---
 
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/bhoomi-jain-3287803b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-- [Email](bhoomijn4@gmail.com)  
+## 📫 Connect With Me  
+- LinkedIn: [Bhoomi Jain](https://www.linkedin.com/in/bhoomi-jain-3287803b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+- Email: [bhoomijn4@gmail.com](mailto:bhoomijn4@gmail.com)  
+
